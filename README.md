@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A recently graduated junior developer from Turkey.</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently developing **Web projects with django.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
