@@ -1,51 +1,10 @@
-# Burak Dagli
+# Burak Dağlı
 
-**Full Stack Engineer & Dynamics 365 Specialist**
+**Cloud Engineer | Full Stack Developer | Automation Architect**
 
-I specialize in building high-performance tools, browser extensions, and optimizing web infrastructure. My current focus is on the Power Platform ecosystem and automated dev-ops tooling.
+I bridge the gap between complex enterprise ecosystems and high-performance cloud solutions. Currently, I’m focused on API-first architectures, Azure cloud orchestration, and building AI-driven automation tools that reclaim lost time.
 
 [LinkedIn](https://linkedin.com/in/obdagli) | [Email](mailto:omerburakdagli@gmail.com)
-
----
-
-## Engineering & Tooling
-
-### Asset Compressor
-**Python / Multi-threading**
-A production-grade CLI utility for automated web asset optimization.
-*   Implements concurrent processing for high-volume datasets.
-*   Auto-converts legacy formats to WebP and H.264.
-*   Reduces deployment payloads by ~90%.
-
-### Level Up for Dynamics 365 (Custom Fork)
-**React / TypeScript / Material UI**
-An enhanced version of the standard Dynamics 365 browser extension.
-*   Engineered a "Force Entra ID Sync" module to solve JIT provisioning latency.
-*   Integrated secure user impersonation directly into the browser context.
-
-### Entra Sync Plugin
-**C# / .NET / XrmToolBox**
-A standalone desktop plugin for Microsoft Dataverse administrators.
-*   Bypasses standard sync delays by forcing identity refreshes via API impersonation.
-
----
-
-## Technical Stack
-
-*   **Languages:** Python, C#, TypeScript, JavaScript
-*   **Web Frameworks:** React, Django
-*   **Platform:** Microsoft Dynamics 365, Power Platform
-*   **Infrastructure:** Git, Docker, Vite
-
----
-
-## Early Work & Archive
-
-**VetApp-Django**
-A monolithic veterinary management system built with Django. (Legacy)
-
-**Java & Algorithms**
-Various academic implementations of cryptographic hashing and data structures.
 
 ---
 
