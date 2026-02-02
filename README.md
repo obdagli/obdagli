@@ -8,4 +8,4 @@ I bridge the gap between complex enterprise ecosystems and high-performance clou
 
 ---
 
-![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=obdagli&show_icons=false&theme=graywhite&hide_border=true)
+
