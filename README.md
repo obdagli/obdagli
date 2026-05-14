@@ -73,10 +73,6 @@ flowchart LR
 ## Public GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obdagli&theme=github_dark" alt="GitHub profile details for obdagli" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obdagli&theme=github_dark" alt="Repository language summary for obdagli" />
 </p>
 
