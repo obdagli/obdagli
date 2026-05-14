@@ -70,11 +70,7 @@ flowchart LR
 - Keep private enterprise details private while still showing sanitized architecture and public-safe evidence.
 - Prefer maintainable automation over one-off scripts that only fix the latest bottleneck.
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obdagli&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophy summary for obdagli" />
-</p>
+## Public GitHub Snapshot
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obdagli&theme=github_dark" alt="GitHub profile details for obdagli" />
