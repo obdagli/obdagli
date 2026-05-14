@@ -41,6 +41,14 @@ The through line in my work is replacing manual operational bottlenecks with obs
 ## Operating Stack
 
 <p>
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Logic%20Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Logic Apps" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" alt="Azure Functions" />
+</p>
+
+<p>
   <img src="https://skillicons.dev/icons?i=azure,dotnet,cs,ts,js,python,react,docker,git,github,visualstudio,vscode" alt="Azure, .NET, C#, TypeScript, JavaScript, Python, React, Docker, Git, GitHub, Visual Studio, VS Code" />
 </p>
 
